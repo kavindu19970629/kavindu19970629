@@ -1,5 +1,5 @@
-## Hi there 👋
 
+I'm currently learning in Open university of Sri Lanka 
 <!--
 **kavindu19970629/kavindu19970629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
